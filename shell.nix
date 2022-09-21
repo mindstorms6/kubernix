@@ -9,7 +9,7 @@ let
       owner = "kubernetes-incubator";
       repo = "cri-tools";
       rev = "e03736e429bcd0dba6f46cf6d6f7ccf0f5c70cc3";
-      sha256= "00zy269k3y3q664gm6lxvr8v2ky8zdgkbxi9banx08irwxcrg22p";
+      sha256= "sha256-vKNBgWdPBHboAUh+CrdP/mNPIRnCXyQPlO6DotVEePg=";
     };
 
     goPackagePath = "github.com/kubernetes-incubator/cri-tools";
